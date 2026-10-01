@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DAKUN MABAR — Dashboard</title>
+  <meta http-equiv="refresh" content="0; url=https://datastudio.google.com/reporting/bf380b2e-d681-4714-acf1-64af0eaf0cdc">
+  <style>
+    html,body{margin:0;min-height:100%;font-family:Arial,Helvetica,sans-serif;background:#f5f7fb;color:#1f2937}
+    body{display:flex;align-items:center;justify-content:center;padding:24px;box-sizing:border-box}
+    .card{max-width:520px;width:100%;background:#fff;border-radius:18px;padding:32px;text-align:center;box-shadow:0 8px 30px rgba(0,0,0,.08)}
+    h1{margin:0 0 8px;font-size:28px} p{margin:0 0 20px;line-height:1.5}
+    a{display:inline-block;padding:12px 18px;border-radius:10px;background:#0d6efd;color:#fff;text-decoration:none;font-weight:700}
+  </style>
+  <script>
+    const DASHBOARD_URL = 'https://datastudio.google.com/reporting/bf380b2e-d681-4714-acf1-64af0eaf0cdc';
+    window.location.replace(DASHBOARD_URL);
+  </script>
+</head>
+<body>
+  <main class="card">
+    <h1>DAKUN MABAR</h1>
+    <p>Dashboard Kunjungan Wisatawan Manggarai Barat</p>
+    <p>Menghubungkan ke dashboard...</p>
+    <a href="https://datastudio.google.com/reporting/bf380b2e-d681-4714-acf1-64af0eaf0cdc">Buka Dashboard</a>
+  </main>
+</body>
+</html>
+
